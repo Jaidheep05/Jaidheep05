@@ -1,82 +1,84 @@
-<!-- ========================================================= -->
-<!--                       PROFILE HEADER                       -->
-<!-- ========================================================= -->
+# Hi, I'm Jaidheep S
 
-<p align="center">
-  <img src="YOUR_GIF_URL_HERE" width="800"/>
-</p>
+### AI & Data Science Student | AI/ML Engineer | GenAI Enthusiast
 
-<h1 align="center">
-  Hi, I'm Jaidheep S 👋
-</h1>
+> "I don't chase the future. I build systems for it."
 
-<h3 align="center">
-  AI & Data Science Student | AI/ML Engineer | GenAI Enthusiast
-</h3>
+I'm a B.Tech student specializing in **Artificial Intelligence and Data Science**, passionate about building intelligent systems using **Generative AI, Computer Vision, Machine Learning, and Backend technologies**.
 
-<p align="center">
-  <i>
-    "I don't chase the future. I build systems for it."
-  </i>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/jaidheep-sivakumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Jaidheep05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/JAIDHEEP">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:jaidheeps048@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+I enjoy turning ideas into practical AI-powered applications and exploring how AI can solve real-world problems.
 
 ---
 
-## 👨‍💻 About Me
+## What I'm Working On
 
-I'm a **B.Tech Artificial Intelligence and Data Science student** passionate about building intelligent systems that solve real-world problems.
-
-My primary interests include:
-
-- 🤖 Generative AI & Large Language Models
-- 🧠 RAG & GraphRAG systems
-- 👁️ Computer Vision
-- 🚗 Autonomous Driving & Simulation
-- ⚙️ Backend & API Development
-- 📊 Machine Learning & Deep Learning
-- 🧩 Data Structures & Algorithms
-
-I enjoy moving from **idea → architecture → implementation → deployment**, while continuously learning new technologies.
+- Building **GraphRAG and Knowledge Graph** based AI systems
+- Exploring **LLMs, RAG, Agentic AI and Prompt Engineering**
+- Developing **Computer Vision and real-time AI systems**
+- Working with **CARLA Simulator** for autonomous-driving applications
+- Building backend services using **Python, FastAPI and Go**
+- Improving my **Data Structures & Algorithms** skills
 
 ---
 
-## 🚀 What I'm Currently Exploring
+## Tech Stack
 
-```text
-Generative AI
-      │
-      ├── LLMs
-      ├── RAG
-      ├── GraphRAG
-      ├── Knowledge Graphs
-      └── AI Agents
+### Languages
 
-Computer Vision
-      │
-      ├── OpenCV
-      ├── MediaPipe
-      ├── Deep Learning
-      └── Real-Time Detection
+### AI / ML
 
-Software Engineering
-      │
-      ├── Python
-      ├── FastAPI
-      ├── Go
-      ├── React
-      └── Docker
+### GenAI
+
+### Backend / Web
+
+---
+
+## Featured Projects
+
+### Personal Knowledge AI — GraphRAG
+
+A knowledge assistant combining **FAISS vector search and Neo4j knowledge graphs** with Gemini for semantic and relationship-aware retrieval from personal documents.
+
+**Tech:** Python · Gemini · Neo4j · FAISS · LangChain · FastAPI · React
+
+### AI Drowsiness Detection & Safety System
+
+A real-time computer vision system using **MediaPipe and OpenCV** to detect driver fatigue through eye closure, yawning and facial landmarks, integrated with the CARLA simulator for safety responses.
+
+**Tech:** Python · OpenCV · MediaPipe · CARLA · NumPy · SciPy
+
+### AI Email Productivity Agent
+
+An AI-powered productivity system integrating **Gmail and Google Calendar APIs** to analyze emails, identify actionable tasks and automate reminders.
+
+**Tech:** Go · Gmail API · Google Calendar API
+
+---
+
+## Achievements
+
+- Solved **500+ problems on LeetCode**
+- LeetCode maximum rating: **1702**
+- **Top 15.26%** globally on LeetCode
+- **2-Star CodeChef**
+- Qualified for the **Regional Round — World Computer Hacker League 2025**
+- **AWS Certified Cloud Practitioner**
+
+---
+
+## GitHub Stats
+
+
+
+---
+
+## Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/jaidheep-sivakumar)
+- [GitHub](https://github.com/Jaidheep05)
+- [LeetCode](https://leetcode.com/u/JAIDHEEP)
+- [Email](mailto:jaidheeps048@gmail.com)
+
+---
+
+### "Build. Learn. Experiment. Repeat."
