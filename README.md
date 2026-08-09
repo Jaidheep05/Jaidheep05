@@ -1,84 +1,58 @@
-# Hi, I'm Jaidheep S
+<!-- ====================================================== -->
+<!--                    FUTURISTIC HEADER                   -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=JAIDHEEP%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 ### AI & Data Science Student | AI/ML Engineer | GenAI Enthusiast
 
-> "I don't chase the future. I build systems for it."
+> **"I don't chase the future. I build systems for it."**
 
-I'm a B.Tech student specializing in **Artificial Intelligence and Data Science**, passionate about building intelligent systems using **Generative AI, Computer Vision, Machine Learning, and Backend technologies**.
+<br>
 
-I enjoy turning ideas into practical AI-powered applications and exploring how AI can solve real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Exploring+Generative+AI;Engineering+Real-Time+Computer+Vision;Building+GraphRAG+Systems;Turning+Ideas+Into+Intelligent+Products"/>
 
----
+<br>
 
-## What I'm Working On
+<a href="https://linkedin.com/in/jaidheep-sivakumar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- Building **GraphRAG and Knowledge Graph** based AI systems
-- Exploring **LLMs, RAG, Agentic AI and Prompt Engineering**
-- Developing **Computer Vision and real-time AI systems**
-- Working with **CARLA Simulator** for autonomous-driving applications
-- Building backend services using **Python, FastAPI and Go**
-- Improving my **Data Structures & Algorithms** skills
+<a href="https://github.com/Jaidheep05">
+<img src="https://img.shields.io/badge/GitHub-Jaidheep05-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+<a href="https://leetcode.com/u/JAIDHEEP">
+<img src="https://img.shields.io/badge/LeetCode-1702-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-## Tech Stack
+<a href="mailto:jaidheeps048@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Languages
-
-### AI / ML
-
-### GenAI
-
-### Backend / Web
+</div>
 
 ---
 
-## Featured Projects
+# 🧠 About Me
 
-### Personal Knowledge AI — GraphRAG
-
-A knowledge assistant combining **FAISS vector search and Neo4j knowledge graphs** with Gemini for semantic and relationship-aware retrieval from personal documents.
-
-**Tech:** Python · Gemini · Neo4j · FAISS · LangChain · FastAPI · React
-
-### AI Drowsiness Detection & Safety System
-
-A real-time computer vision system using **MediaPipe and OpenCV** to detect driver fatigue through eye closure, yawning and facial landmarks, integrated with the CARLA simulator for safety responses.
-
-**Tech:** Python · OpenCV · MediaPipe · CARLA · NumPy · SciPy
-
-### AI Email Productivity Agent
-
-An AI-powered productivity system integrating **Gmail and Google Calendar APIs** to analyze emails, identify actionable tasks and automate reminders.
-
-**Tech:** Go · Gmail API · Google Calendar API
-
----
-
-## Achievements
-
-- Solved **500+ problems on LeetCode**
-- LeetCode maximum rating: **1702**
-- **Top 15.26%** globally on LeetCode
-- **2-Star CodeChef**
-- Qualified for the **Regional Round — World Computer Hacker League 2025**
-- **AWS Certified Cloud Practitioner**
-
----
-
-## GitHub Stats
-
-
-
----
-
-## Connect With Me
-
-- [LinkedIn](https://linkedin.com/in/jaidheep-sivakumar)
-- [GitHub](https://github.com/Jaidheep05)
-- [LeetCode](https://leetcode.com/u/JAIDHEEP)
-- [Email](mailto:jaidheeps048@gmail.com)
-
----
-
-### "Build. Learn. Experiment. Repeat."
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     JAIDHEEP S                              │
+│                                                              │
+│  B.Tech — Artificial Intelligence & Data Science             │
+│                                                              │
+│  I build intelligent systems that connect AI with             │
+│  real-world applications.                                    │
+│                                                              │
+│  Focus Areas:                                                 │
+│  ├── Generative AI                                           │
+│  ├── RAG / GraphRAG                                         │
+│  ├── Computer Vision                                         │
+│  ├── Autonomous Systems                                      │
+│  ├── AI Agents                                               │
+│  └── Backend Engineering                                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
